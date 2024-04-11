@@ -1,0 +1,15 @@
+{
+  "name": "hiepnaa-tea",
+  "version": "1.0.0",
+  "description": "hay noi a nghe mot loi, hay noi a nghe hoi nguoi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiepntnaa/hiepnaa-tea.git"
+  },
+  "author": "hiepntnaa",
+  "license": "MIT"
+}
